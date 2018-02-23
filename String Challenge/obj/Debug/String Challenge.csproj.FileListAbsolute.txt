@@ -1,0 +1,9 @@
+C:\Users\Ethan\Documents\My Code\String Challenge\String Challenge\bin\String Challenge.dll.config
+C:\Users\Ethan\Documents\My Code\String Challenge\String Challenge\bin\String Challenge.dll
+C:\Users\Ethan\Documents\My Code\String Challenge\String Challenge\bin\String Challenge.pdb
+C:\Users\Ethan\Documents\My Code\String Challenge\String Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ethan\Documents\My Code\String Challenge\String Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ethan\Documents\My Code\String Challenge\String Challenge\obj\Debug\String Challenge.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\My Code\String Challenge\String Challenge\obj\Debug\String Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\My Code\String Challenge\String Challenge\obj\Debug\String Challenge.dll
+C:\Users\Ethan\Documents\My Code\String Challenge\String Challenge\obj\Debug\String Challenge.pdb
